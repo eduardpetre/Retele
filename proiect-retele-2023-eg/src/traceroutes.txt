@@ -1,0 +1,183 @@
+20.53.121.5 - AU
+1. 192.168.100.1 - Private address
+2. 10.0.0.1 - Private address
+3. 10.30.4.193 - Private address
+4. 10.220.199.2 - Private address
+5. 10.220.186.115 - Private address
+6. 104.44.36.153 - City: Bucharest, Region: București, Country: RO
+7. 104.44.230.247 - City: Vienna, Region: Vienna, Country: AT
+8. 104.44.11.199 - City: Vienna, Region: Vienna, Country: AT
+9. 104.44.30.63 - City: Redmond, Region: Washington, Country: US
+10. 104.44.16.67 - City: Amsterdam, Region: North Holland, Country: NL
+11. 104.44.49.0 - City: Frankfurt am Main, Region: Hesse, Country: DE
+12. 104.44.17.92 - City: Köln, Region: North Rhine-Westphalia, Country: DE
+13. 104.44.17.66 - City: Redmond, Region: Washington, Country: US
+14. 104.44.7.12 - City: Redmond, Region: Washington, Country: US
+15. 104.44.19.146 - City: Melbourne, Region: Victoria, Country: AU
+16. 104.44.7.123 - City: Sydney, Region: New South Wales, Country: AU
+17. 104.44.11.102 - City: Sydney, Region: New South Wales, Country: AU
+
+20.53.121.5 - AU
+1. 192.168.100.1 - Private address
+2. 10.0.0.1 - Private address
+3. 10.30.4.193 - Private address
+4. 10.220.199.10 - Private address
+5. 10.220.186.109 - Private address
+6. 104.44.36.153 - City: Bucharest, Region: București, Country: RO
+7. 104.44.230.247 - City: Vienna, Region: Vienna, Country: AT
+8. 104.44.11.203 - City: Vienna, Region: Vienna, Country: AT
+9. 104.44.30.103 - City: Redmond, Region: Washington, Country: US
+10. 104.44.29.85 - City: Frankfurt am Main, Region: Hesse, Country: DE
+11. 104.44.49.2 - City: Frankfurt am Main, Region: Hesse, Country: DE
+12. 104.44.17.168 - City: Frankfurt am Main, Region: Hesse, Country: DE
+13. 104.44.17.64 - City: Redmond, Region: Washington, Country: US
+14. 104.44.7.18 - City: Redmond, Region: Washington, Country: US
+15. 104.44.19.141 - City: Redmond, Region: Washington, Country: US
+16. 104.44.7.251 - City: Sydney, Region: New South Wales, Country: AU
+17. 104.44.11.108 - City: Sydney, Region: New South Wales, Country: AU
+
+20.53.121.5 - AU
+1. 192.168.100.1 - Private address
+2. 10.0.0.1 - Private address
+3. 10.30.4.193 - Private address
+4. 10.220.199.8 - Private address
+5. 10.220.186.109 - Private address
+6. 104.44.36.153 - City: Bucharest, Region: București, Country: RO
+7. 104.44.230.247 - City: Vienna, Region: Vienna, Country: AT
+8. 104.44.11.203 - City: Vienna, Region: Vienna, Country: AT
+9. 104.44.30.103 - City: Redmond, Region: Washington, Country: US
+10. 104.44.29.85 - City: Frankfurt am Main, Region: Hesse, Country: DE
+11. 104.44.49.2 - City: Frankfurt am Main, Region: Hesse, Country: DE
+12. 104.44.17.168 - City: Frankfurt am Main, Region: Hesse, Country: DE
+13. 104.44.28.208 - City: Offenbach, Region: Hesse, Country: DE
+14. 104.44.19.82 - City: Hong Kong, Region: Central and Western, Country: HK
+15. 104.44.7.251 - City: Sydney, Region: New South Wales, Country: AU
+16. 104.44.11.108 - City: Sydney, Region: New South Wales, Country: AU
+
+142.251.39.14 - HU
+1. 192.168.100.1 - Private address
+2. 10.0.0.1 - Private address
+3. 172.19.210.145 - Private address
+4. 10.220.199.8 - Private address
+5. 10.220.153.18 - Private address
+6. 209.85.168.182 - City: Budapest, Region: Budapest, Country: HU
+7. 74.125.242.241 - City: Budapest, Region: Budapest, Country: HU
+8. 142.251.228.25 - City: Budapest, Region: Budapest, Country: HU
+9. 142.251.39.14 - City: Budapest, Region: Budapest, Country: HU
+
+142.251.39.14 - HU
+1. 192.168.100.1 - Private address
+2. 10.0.0.1 - Private address
+3. 172.19.210.145 - Private address
+4. 10.220.199.2 - Private address
+5. 10.220.153.18 - Private address
+6. 209.85.168.182 - City: Budapest, Region: Budapest, Country: HU
+7. 74.125.242.225 - City: Budapest, Region: Budapest, Country: HU
+8. 142.251.228.23 - City: Budapest, Region: Budapest, Country: HU
+9. 142.251.39.14 - City: Budapest, Region: Budapest, Country: HU
+
+142.251.39.14 - HU
+1. 192.168.100.1 - Private address
+2. 10.0.0.1 - Private address
+3. 172.19.210.145 - Private address
+4. 10.220.199.6 - Private address
+5. 10.220.156.5 - Private address
+6. 72.14.216.212 - City: Budapest, Region: Budapest, Country: HU
+7. 142.251.228.26 - City: Frankfurt am Main, Region: Hesse, Country: DE
+8. 142.251.228.23 - City: Budapest, Region: Budapest, Country: HU
+9. 142.251.39.14 - City: Budapest, Region: Budapest, Country: HU
+
+142.251.39.14 - HU
+1. 192.168.100.1 - Private address
+2. 10.0.0.1 - Private address
+3. 172.19.210.145 - Private address
+4. 10.220.199.10 - Private address
+5. 10.220.178.148 - Private address
+6. 209.85.168.182 - City: Budapest, Region: Budapest, Country: HU
+7. 74.125.242.241 - City: Budapest, Region: Budapest, Country: HU
+8. 142.251.228.25 - City: Budapest, Region: Budapest, Country: HU
+9. 142.251.39.14 - City: Budapest, Region: Budapest, Country: HU
+
+142.251.39.14 - HU
+1. 192.168.100.1 - Private address
+2. 10.0.0.1 - Private address
+3. 172.19.210.145 - Private address
+4. 10.220.199.0 - Private address
+5. 10.220.178.148 - Private address
+6. 72.14.216.212 - City: Budapest, Region: Budapest, Country: HU
+7. 142.251.65.224 - City: Frankfurt am Main, Region: Hesse, Country: DE
+8. 142.251.228.23 - City: Budapest, Region: Budapest, Country: HU
+9. 142.251.39.14 - City: Budapest, Region: Budapest, Country: HU
+
+142.251.39.14 - HU
+1. 192.168.100.1 - Private address
+2. 10.0.0.1 - Private address
+3. 172.19.210.145 - Private address
+4. 10.220.199.10 - Private address
+5. 10.220.153.20 - Private address
+6. 209.85.168.182 - City: Budapest, Region: Budapest, Country: HU
+7. 74.125.242.225 - City: Budapest, Region: Budapest, Country: HU
+8. 142.251.228.23 - City: Budapest, Region: Budapest, Country: HU
+9. 142.251.39.14 - City: Budapest, Region: Budapest, Country: HU
+
+142.251.39.14 - HU
+1. 192.168.100.1 - Private address
+2. 10.0.0.1 - Private address
+3. 172.19.210.145 - Private address
+4. 10.220.196.82 - Private address
+5. 10.220.156.5 - Private address
+6. 209.85.168.182 - City: Budapest, Region: Budapest, Country: HU
+7. 74.125.242.225 - City: Budapest, Region: Budapest, Country: HU
+8. 142.251.228.23 - City: Budapest, Region: Budapest, Country: HU
+9. 142.251.39.14 - City: Budapest, Region: Budapest, Country: HU
+
+20.53.121.5 - AU
+1. 192.168.100.1 - Private address
+2. 10.0.0.1 - Private address
+3. 10.30.4.193 - Private address
+4. 10.220.199.4 - Private address
+5. 10.220.184.205 - Private address
+6. 104.44.36.151 - City: Bucharest, Region: București, Country: RO
+7. 104.44.230.249 - City: Vienna, Region: Vienna, Country: AT
+8. 104.44.20.15 - City: Vienna, Region: Vienna, Country: AT
+9. 104.44.30.103 - City: Redmond, Region: Washington, Country: US
+10. 104.44.29.85 - City: Frankfurt am Main, Region: Hesse, Country: DE
+11. 104.44.49.2 - City: Frankfurt am Main, Region: Hesse, Country: DE
+12. 104.44.17.168 - City: Frankfurt am Main, Region: Hesse, Country: DE
+13. 104.44.28.208 - City: Offenbach, Region: Hesse, Country: DE
+14. 104.44.28.38 - City: Hong Kong, Region: Central and Western, Country: HK
+15. 104.44.7.18 - City: Redmond, Region: Washington, Country: US
+16. 104.44.19.141 - City: Redmond, Region: Washington, Country: US
+17. 104.44.19.148 - City: Melbourne, Region: Victoria, Country: AU
+18. 104.44.11.114 - City: Sydney, Region: New South Wales, Country: AU
+
+218.241.97.42 - CN
+1. 192.168.100.1 - Private address
+2. 10.0.0.1 - Private address
+3. 172.19.210.145 - Private address
+4. 10.220.199.2 - Private address
+5. 10.220.187.188 - Private address
+6. 80.249.208.77 - City: Amsterdam, Region: North Holland, Country: NL
+7. 140.222.236.59 - City: Frankfurt am Main, Region: Hesse, Country: DE
+8. 219.158.15.161 - City: Shenzhen, Region: Guangdong, Country: CN
+9. 219.158.16.81 - City: Qingyuan, Region: Guangdong, Country: CN
+10. 61.149.203.46 - City: Jinrongjie, Region: Beijing, Country: CN
+11. 114.249.177.14 - City: Jinrongjie, Region: Beijing, Country: CN
+12. 61.148.17.42 - City: Jinrongjie, Region: Beijing, Country: CN
+13. 218.241.121.212 - City: Beijing, Region: Beijing, Country: CN
+14. 218.241.97.42 - City: Beijing, Region: Beijing, Country: CN
+
+196.29.59.9 - ZA
+1. 192.168.100.1 - Private address
+2. 10.0.0.1 - Private address
+3. 10.30.4.193 - Private address
+4. 10.220.199.10 - Private address
+5. 10.220.187.209 - Private address
+6. 195.66.224.68 - City: London, Region: England, Country: GB
+7. 5.11.13.44 - City: Southgate, Region: England, Country: GB
+8. 5.11.12.210 - City: Cape Town, Region: Western Cape, Country: ZA
+9. 77.246.59.226 - City: Cape Town, Region: Western Cape, Country: ZA
+10. 46.17.232.5 - City: Cape Town, Region: Western Cape, Country: ZA
+11. 172.18.1.61 - Private address
+12. 41.160.68.86 - City: Johannesburg, Region: Gauteng, Country: ZA
+13. 206.223.136.38 - City: Johannesburg, Region: Gauteng, Country: ZA
